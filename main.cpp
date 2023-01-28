@@ -1,14 +1,3 @@
-/*
-
-The most common type of DNA profiling today for criminal cases and other types of forensic uses is 
-called "STR" (short tandem repeat) analysis.
-
-This application...
-
-*/
-
-
-
 #include <iostream>
 #include "ourvector.h"
 #include <fstream>
