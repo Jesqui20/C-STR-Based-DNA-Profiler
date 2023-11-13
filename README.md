@@ -9,3 +9,4 @@
 
 •	The DNA of subjects loaded into the database can then be compared against any loaded-in sample of DNA to find a match. 
 
+INCLUDED ARE EXAMPLE .txt DOCUMENTS WHICH THE PROGRAM ACCEPTS
